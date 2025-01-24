@@ -21,7 +21,8 @@
 - VSCode
 - Power BI
 
-# Dimensional model image of the Data warehouse![image](https://github.com/user-attachments/assets/69e41540-4e25-4fb8-a1c3-866f31b77f38)
+# Dimensional model image of the Data warehouse![nyc _model drawio 2-Page-2 drawio](https://github.com/user-attachments/assets/9c161713-0071-41c3-9db8-d61e3568d2fb)
+
 
 
 
